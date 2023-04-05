@@ -1,0 +1,30 @@
+.padding0 {
+  padding: 0;
+  margin: 0;
+}
+
+.logoFull {
+  position: relative;
+  padding-right: 35px;
+}
+
+.dotBig {
+  position: absolute;
+  top: 11px;
+  left: 12px;
+}
+
+.dotSmall {
+  position: absolute;
+  top: 23px;
+  left: 25px;
+}
+
+.recTangBlue {
+  position: absolute;
+  top: 26px;
+  left: 39px;
+}
+
+.check {
+}
